@@ -1,0 +1,15 @@
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\bin\Debug\net6.0\KlivesAlgoTrader.exe
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\bin\Debug\net6.0\KlivesAlgoTrader.deps.json
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\bin\Debug\net6.0\KlivesAlgoTrader.runtimeconfig.json
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\bin\Debug\net6.0\KlivesAlgoTrader.dll
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\bin\Debug\net6.0\KlivesAlgoTrader.pdb
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\obj\Debug\net6.0\KlivesAlgoTrader.csproj.AssemblyReference.cache
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\obj\Debug\net6.0\KlivesAlgoTrader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\obj\Debug\net6.0\KlivesAlgoTrader.AssemblyInfoInputs.cache
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\obj\Debug\net6.0\KlivesAlgoTrader.AssemblyInfo.cs
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\obj\Debug\net6.0\KlivesAlgoTrader.csproj.CoreCompileInputs.cache
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\obj\Debug\net6.0\KlivesAlgoTrader.dll
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\obj\Debug\net6.0\refint\KlivesAlgoTrader.dll
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\obj\Debug\net6.0\KlivesAlgoTrader.pdb
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\obj\Debug\net6.0\KlivesAlgoTrader.genruntimeconfig.cache
+C:\Projects\Software\KlivesAlgoTrader\KlivesAlgoTrader\obj\Debug\net6.0\ref\KlivesAlgoTrader.dll
